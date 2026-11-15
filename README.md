@@ -10,7 +10,7 @@ https://doufam.itch.io/snounce
 
 ## Special Thanks
 
-This is possible thanks to Hack Club and our great Haven Lyon organisers !
+This is possible thanks to Hack Club and our awesome Haven Lyon organisers !
 
 
 ## Credits
