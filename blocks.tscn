@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://bfjxjvrqtdj1p"]
+
+[ext_resource type="Script" uid="uid://eohi5glnl8us" path="res://blocks.gd" id="1_3oe6e"]
+[ext_resource type="Texture2D" uid="uid://dw5vyhemcij61" path="res://kenney_rolling-ball-assets/PNG/Default/block_corner.png" id="1_hch05"]
+
+[node name="Area2D" type="StaticBody2D" unique_id=1707841041]
+input_pickable = true
+script = ExtResource("1_3oe6e")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=579135968]
+scale = Vector2(0.9, 0.9)
+texture = ExtResource("1_hch05")
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="." unique_id=387155748]
+position = Vector2(6, 7)
+polygon = PackedVector2Array(-30, -34, 20, 16, -30, 16)
