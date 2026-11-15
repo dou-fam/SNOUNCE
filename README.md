@@ -8,6 +8,11 @@ Snounce is a puzzle game wher you must get a ball in a hole using a limited supp
 
 https://doufam.itch.io/snounce
 
+## Special Thanks
+
+This is possible thanks to Hack Club and our great Haven Lyon organisers !
+
+
 ## Credits
 
 https://kenney.nl/assets/cursor-pack 
@@ -15,3 +20,5 @@ https://kenney.nl/assets/cursor-pack
 https://kenney.nl/assets/game-icons 
 
 https://pixabay.com/music/electronic-arcadia-game-retro-506078/
+
+
